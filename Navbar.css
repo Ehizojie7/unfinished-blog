@@ -1,0 +1,16 @@
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 100%;
+    background: rgb(8, 8, 8);
+    border-radius: 4px;
+}
+
+.navbar a{
+    padding: 15px;
+   color: lightseagreen;
+   text-decoration: none;
+   font-size: 20px;
+    
+}
